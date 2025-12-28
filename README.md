@@ -11,7 +11,7 @@ A simple, browser-based compass tool that works on any device with orientation s
 ## Live Demo
 
 Check out the live demo on our GitHub Pages site:
-[**online-compass (Demo)**](https://github.com/onlinecompass/online-compass/) 
+[**online-compass (Demo)**](https://onlinecompass.github.io/online-compass/) 
 
 ## Full Version
 
