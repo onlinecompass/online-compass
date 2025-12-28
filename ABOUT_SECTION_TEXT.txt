@@ -1,0 +1,7 @@
+**Online Compass (GitHub Project)** – A simple web tool for finding direction online. This project provides an easy way to check compass bearings using only your web browser. No app download is needed, in line with the goal of many online compass services. Inspired by similar tools, our focus is on making navigation simple and accessible: as one source notes, such projects “provide an easy to use online compass and tools… in a simple way without the need of app installations”. Whether you’re checking north/south/east/west on a map or finding the Qibla direction, the Online Compass does it securely and simply from any device.
+
+**About this project:** The code in this repository powers a demonstration page (GitHub Pages) showing the compass widget in action. Our aim is to help users orient themselves easily in any situation – for example, travelers, engineers, or anyone curious about cardinal directions. The tool uses your device’s built-in sensors (magnetometer and GPS) to report direction and coordinates, echoing the promise of digital compasses that “support all devices and browsers”. No installation is required; it’s ready-to-use in-browser.
+
+**Contact & License:** This project is open-source under the MIT License. See the README for details and feel free to reach out with questions or contributions.
+
+**Sources:** The content above is based on information about online compass tools and best practices for making web-based compass applications.
